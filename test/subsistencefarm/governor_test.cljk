@@ -1,5 +1,5 @@
 (ns subsistencefarm.governor-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [subsistencefarm.store :as store]
             [subsistencefarm.advisor :as advisor]
             [subsistencefarm.governor :as governor]))
