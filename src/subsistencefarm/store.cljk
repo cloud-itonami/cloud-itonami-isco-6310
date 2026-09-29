@@ -1,7 +1,7 @@
 (ns subsistencefarm.store
   "SSoT for the ISCO-08 6310 subsistence-crop-farming household
   record-keeping/logistics coordination actor (itonami actor pattern,
-  ADR-2607121000 / CLAUDE.md Actors section; README's 'Robotics
+  ADR-2607121000 / AGENTS.md Actors section; README's 'Robotics
   premise' — a record-keeping/logistics coordination robot performs
   household labor scheduling, planting/harvest/yield-record logging
   and seeds/tools supply-order coordination for a subsistence-farming
